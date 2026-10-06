@@ -1,0 +1,5 @@
+# dsh-whale-pet bundle patch: 插入插件行到 web composition。
+# 用 `dsh plugin --profile <name> add <path-or-git-url>` 安装。
+- insert:
+    - id: dsh-whale-pet
+      name: '@dsh-local/dsh-whale-pet'
